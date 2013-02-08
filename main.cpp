@@ -12,7 +12,11 @@ using namespace std;
 
 void hello()
 {
-    cout << "hello world";
+    int x;
+    
+    cout << "hello world: enter number ";
+    cin >> x;
+    cout << "you entered " << x;
 }
 
 /*
