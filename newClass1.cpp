@@ -12,6 +12,7 @@ newClass1::newClass1() {
 
 newClass1::newClass1(const newClass1& orig) {
     /* comment */
+    /* another comment*/
 }
 
 newClass1::~newClass1() {
