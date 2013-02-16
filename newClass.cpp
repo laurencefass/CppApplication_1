@@ -8,6 +8,7 @@
 #include "newClass.h"
 
 newClass::newClass() {
+    // first comment
 }
 
 newClass::newClass(const newClass& orig) {
