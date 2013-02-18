@@ -20,6 +20,7 @@ void hello()
 
     // added comment to test jenkins
     // new comment
+    // another new comment
     
 
 }
@@ -28,6 +29,7 @@ void hello()
  * 
  */
 int main(int argc, char** argv) {
+    hello();
     hello();
     return 0;
 }
