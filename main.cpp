@@ -13,11 +13,14 @@ using namespace std;
 void hello()
 {
     int x;
+    int y;
     
     cout << "hello world: enter number ";
     cin >> x;
     cout << "you entered " << x;
 
+    cout << "end";
+    
     // added comment to test jenkins
     // new comment
     // another new comment
