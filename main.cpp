@@ -13,6 +13,7 @@ using namespace std;
 void hello()
 {
     int x;
+    int z;
     
     cout << "hello world: enter number ";
     cin >> x;
@@ -22,7 +23,7 @@ void hello()
     // new comment
     // another new comment
     
-
+    cout << "hello from branch 2a"
 }
 
 /*
